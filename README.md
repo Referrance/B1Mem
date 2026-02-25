@@ -1,4 +1,5 @@
 ### Help would be appreciated for translating project to English
+## Some code is proprietary and I can't edit it. Would appreciate help
 
 <div align="center">
 <h1>B1 memory management</h1>
