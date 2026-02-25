@@ -51,13 +51,13 @@ xp() {
 }
 
 if [ "$ARCH" != "arm64" ]; then
-  abort "Not compatible with this platform: $ARCH"
+  abort "Not compatible with $ARCH"
 else
-  ui_print "- Your platform can use A1 Memory"
+  ui_print "- All goods, we can install"
   config
   xp
 fi
 
 set_perm_recursive "$MODPATH" 0 0 0755 0777
 
-ui_print "- Restart and enjoy A1 Memory immediately"
+ui_print "- Restart to use B1Mem"
