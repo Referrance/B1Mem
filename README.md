@@ -1,4 +1,4 @@
-### Help would be appreciated for translating code to English
+### Help would be appreciated for translating project to English
 
 <div align="center">
 <h1>B1 memory management</h1>
